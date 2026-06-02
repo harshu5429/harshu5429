@@ -153,6 +153,7 @@ My flagship project **GaavConnect** is a live AI-powered route optimization plat
 
 ---
 
+
 <!-- ══════════════════════════ FEATURED PROJECTS ══════════════════════════ -->
 
 ## 🚀 Featured Projects
