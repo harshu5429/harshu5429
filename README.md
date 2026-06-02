@@ -37,7 +37,8 @@ const Harshavardhan = {
   github      : "harshu5429",
   portfolio   : "harshavardhan-tawny.vercel.app",
 
-  role        : "Full Stack Developer & AI Engineer",
+  role        : "Software Engineer | Full Stack Developer | AI Engineer",
+  expertise   : ["Machine Learning", "Data Science", "Python Developer"],
   focus       : [
     "Production-grade AI systems",
     "Full-Stack Web Applications",
@@ -63,12 +64,13 @@ const Harshavardhan = {
 
 ### 🚀 From Learner to Builder
 
-I build **production-ready applications** at the intersection of AI, full-stack engineering, and real-world problem solving.
+I build **production-ready applications** as a **Software Engineer** specializing in **Machine Learning**, **Data Science**, and **Full Stack Development**.
 
 My flagship project **GaavConnect** is a live AI-powered route optimization platform that implements a custom **Genetic Algorithm** (tournament selection, order crossover, swap mutation, elite preservation) to solve the Traveling Salesman Problem — deployed and running in production.
 
 **What makes my work stand out:**
 - 🧬 Custom AI Algorithm implementations (not just off-the-shelf)
+- 🐍 Python Developer: Built data-centric backends and mathematical models
 - 🌐 Offline-first PWA architecture with Service Workers & IndexedDB
 - 💰 Fintech: Gamified micro-savings platform with real DB & QR integration
 - 🎨 Full portfolio live at Vercel: *[harshavardhan-tawny.vercel.app](https://harshavardhan-tawny.vercel.app)*
