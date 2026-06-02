@@ -291,17 +291,7 @@ React (Vite) → Express.js → MongoDB
   </picture>
 </div>
 
----
-
-<!-- ══════════════════════════ ACHIEVEMENTS ══════════════════════════ -->
-
-## 🏆 Trophies & Milestones
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshu5429&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-
-</div>
+## 🏆 Milestones & Key Achievements
 
 <div align="center">
 
